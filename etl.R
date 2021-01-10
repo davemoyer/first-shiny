@@ -53,7 +53,7 @@ saveRDS(districts_info,"data/districts_info.rds")
 #          zip = Street_Zip) %>%
 #   mutate(address = paste0(street,", ",city,", ",state, " ", zip))
 
-# register_google(key = "AIzaSyBU5MpXpZkurXx2tVijBssbhbzjv8pGiEA", account_type = "premium", day_limit = 100000)
+# register_google(key = <add key here>, account_type = "premium", day_limit = 100000)
 # schools_geocode <- schools %>%
 #   mutate_geocode(address)  %>%
     # mutate(lat = ifelse(school_id == 304, 42.954380,lat),
