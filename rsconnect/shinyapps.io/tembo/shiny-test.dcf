@@ -1,0 +1,10 @@
+name: shiny-test
+title:
+username:
+account: tembo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1160244
+bundleId: 2393054
+url: https://tembo.shinyapps.io/shiny-test/
+when: 1567808094.84287
